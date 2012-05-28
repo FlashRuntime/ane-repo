@@ -1,0 +1,261 @@
+TDeviceinfoiOSLibrary
+v7
+r0
+t336397787.867665
+cCheck dependencies
+cProcessPCH /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-bokpxfeqpkwcnshkeasjjzrlsowm/DeviceinfoiOSLibrary_Prefix.pch.gch DeviceinfoiOSLibrary_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-eklqryaicpoubnaiuigrpnfdwage/DeviceinfoiOSLibrary_Prefix.pch.gch DeviceinfoiOSLibrary_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-dkbpkhhkltbdavfydfzeiejvuydv/DeviceinfoiOSLibrary_Prefix.pch.pth DeviceinfoiOSLibrary_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cProcessPCH /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-dzlcqbfoiwkfbedexejlbvlqpkgj/DeviceinfoiOSLibrary_Prefix.pch.pth DeviceinfoiOSLibrary_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/Deviceinfo.o /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/Deviceinfo.o /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/libDeviceinfoiOSLibrary.a normal armv7
+cLibtool /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/libDeviceinfoiOSLibrary.a normal armv6
+cAnalyze /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m
+cCreateUniversalBinary /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/libDeviceinfoiOSLibrary.a normal "armv6 armv7"
+cAnalyze /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDevice.h
+c000000004CC11AE700000000000014D5
+t1287723751
+s5333
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/string.h
+c000000004CB3E4B80000000000001731
+t1286857912
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/types.h
+c000000004CBFACD90000000000002905
+t1287630041
+s10501
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/stdint.h
+c000000004C5A5787000000000000190C
+t1280989063
+s6412
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.h
+c000000004E5CCD9200000000000000DE
+t1314704786
+s222
+i<Foundation/Foundation.h>
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m
+c000000004E5CCE57000000000000101D
+t1314704983
+s4125
+i"FlashRuntimeExtensions.h"
+i<stdio.h>
+i<sys/types.h>
+i<string.h>
+i<UIKit/UIDevice.h>
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/DeviceinfoiOSLibrary_Prefix.pch
+c000000004E5CCD6600000000000000BC
+t1314704742
+s188
+i<Foundation/Foundation.h>
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/FlashRuntimeExtensions.h
+c000000004E5CCE480000000000004667
+t1314704968
+s18023
+i<stdint.h>
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/libDeviceinfoiOSLibrary.a
+t1314704987
+s24784
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/Deviceinfo.o
+t1314704987
+s12104
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/DeviceinfoiOSLibrary.LinkFileList
+c000000004E5CCE5A000000000000009B
+t1314704986
+s155
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/libDeviceinfoiOSLibrary.a
+t1314704987
+s12416
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/Deviceinfo.o
+t1314704987
+s12004
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/DeviceinfoiOSLibrary.LinkFileList
+c000000004E5CCE5A000000000000009B
+t1314704986
+s155
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/libDeviceinfoiOSLibrary.a
+t1314704987
+s12320
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/StaticAnalyzer/normal/armv6/Deviceinfo.plist
+t1314704987
+s276
+
+N/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/StaticAnalyzer/normal/armv7/Deviceinfo.plist
+t1314704987
+s276
+
+N/var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-bokpxfeqpkwcnshkeasjjzrlsowm/DeviceinfoiOSLibrary_Prefix.pch.gch
+t1314704986
+s6736452
+
+N/var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-dkbpkhhkltbdavfydfzeiejvuydv/DeviceinfoiOSLibrary_Prefix.pch.pth
+t1314704987
+s1823332
+
+N/var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-dzlcqbfoiwkfbedexejlbvlqpkgj/DeviceinfoiOSLibrary_Prefix.pch.pth
+t1314704987
+s1823488
+
+N/var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-eklqryaicpoubnaiuigrpnfdwage/DeviceinfoiOSLibrary_Prefix.pch.gch
+t1314704986
+s7199300
+
+CAnalyze /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m
+s336397787.813885
+e336397787.867058
+r1
+xAnalyze
+x/Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m
+lSLF07#2@66"Analyze /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m336397787#336397787#0(0"0(0#0#58"/Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m8609112736#2176"    cd /Users/gangwar/Downloads/DeviceinfoiOSLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/SDKs/qnx650/host/darwin/x86/usr/bin"    /Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fasm-blocks -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-generated-files.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-own-target-headers.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-all-target-headers.hmap -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-project-headers.hmap -F/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/include -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources/armv7 -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources -include /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-dzlcqbfoiwkfbedexejlbvlqpkgj/DeviceinfoiOSLibrary_Prefix.pch --analyze /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m -o /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/StaticAnalyzer/normal/armv7/Deviceinfo.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies336397786#336397786#0(0"0(0#1#0"8614356064#0"0#
+
+CCompileC build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/Deviceinfo.o /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s336397787.524449
+e336397787.657941
+r1
+xCompileC
+xbuild/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/Deviceinfo.o
+x/Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m336397787#336397787#0(0"0(0#0#58"/Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m8610579616#2147"    cd /Users/gangwar/Downloads/DeviceinfoiOSLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/SDKs/qnx650/host/darwin/x86/usr/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-generated-files.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-own-target-headers.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-all-target-headers.hmap -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-project-headers.hmap -F/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/include -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources/armv6 -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources -include /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-bokpxfeqpkwcnshkeasjjzrlsowm/DeviceinfoiOSLibrary_Prefix.pch -c /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m -o /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/Deviceinfo.o0#
+
+CCompileC build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/Deviceinfo.o /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s336397787.558785
+e336397787.652438
+r1
+xCompileC
+xbuild/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/Deviceinfo.o
+x/Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m336397787#336397787#0(0"0(0#0#58"/Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m8616931776#2147"    cd /Users/gangwar/Downloads/DeviceinfoiOSLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/SDKs/qnx650/host/darwin/x86/usr/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-generated-files.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-own-target-headers.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-all-target-headers.hmap -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-project-headers.hmap -F/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/include -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources/armv7 -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources -include /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-eklqryaicpoubnaiuigrpnfdwage/DeviceinfoiOSLibrary_Prefix.pch -c /Users/gangwar/Downloads/DeviceinfoiOSLibrary/Deviceinfo.m -o /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/Deviceinfo.o0#
+
+CCreateUniversalBinary /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/libDeviceinfoiOSLibrary.a normal "armv6 armv7"
+s336397787.741719
+e336397787.867640
+r1
+xCreateUniversalBinary
+x/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/libDeviceinfoiOSLibrary.a
+xnormal
+xarmv6 armv7
+lSLF07#2@89"CreateUniversalBinary build/Debug-iphoneos/libDeviceinfoiOSLibrary.a normal "armv6 armv7"336397787#336397787#0(0"0(0#0#57"/Users/gangwar/Downloads/DeviceinfoiOSLibrary/armv6 armv78610524864#761"    cd /Users/gangwar/Downloads/DeviceinfoiOSLibrary    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/SDKs/qnx650/host/darwin/x86/usr/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/libDeviceinfoiOSLibrary.a /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/libDeviceinfoiOSLibrary.a -o /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/libDeviceinfoiOSLibrary.a0#
+
+CLibtool /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/libDeviceinfoiOSLibrary.a normal armv6
+s336397787.658013
+e336397787.692824
+r1
+xLibtool
+x/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/libDeviceinfoiOSLibrary.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@142"Libtool build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/libDeviceinfoiOSLibrary.a normal armv6336397787#336397787#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8614296672#924"    cd /Users/gangwar/Downloads/DeviceinfoiOSLibrary    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/SDKs/qnx650/host/darwin/x86/usr/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos -filelist /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/DeviceinfoiOSLibrary.LinkFileList -ObjC -framework Foundation -o /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv6/libDeviceinfoiOSLibrary.a0#
+
+CLibtool /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/libDeviceinfoiOSLibrary.a normal armv7
+s336397787.652513
+e336397787.741605
+r1
+xLibtool
+x/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/libDeviceinfoiOSLibrary.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@142"Libtool build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/libDeviceinfoiOSLibrary.a normal armv7336397787#336397787#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8614906528#924"    cd /Users/gangwar/Downloads/DeviceinfoiOSLibrary    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/SDKs/qnx650/host/darwin/x86/usr/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos -filelist /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/DeviceinfoiOSLibrary.LinkFileList -ObjC -framework Foundation -o /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/Objects-normal/armv7/libDeviceinfoiOSLibrary.a0#
+
+CProcessPCH /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-bokpxfeqpkwcnshkeasjjzrlsowm/DeviceinfoiOSLibrary_Prefix.pch.gch DeviceinfoiOSLibrary_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s336397786.204031
+e336397786.772259
+r1
+xProcessPCH
+x/var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-bokpxfeqpkwcnshkeasjjzrlsowm/DeviceinfoiOSLibrary_Prefix.pch.gch
+xDeviceinfoiOSLibrary_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile DeviceinfoiOSLibrary_Prefix.pch336397786#336397786#0(0"0(0#0#77"/Users/gangwar/Downloads/DeviceinfoiOSLibrary/DeviceinfoiOSLibrary_Prefix.pch8613252384#2013"    cd /Users/gangwar/Downloads/DeviceinfoiOSLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/SDKs/qnx650/host/darwin/x86/usr/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-generated-files.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-own-target-headers.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-all-target-headers.hmap -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-project-headers.hmap -F/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/include -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources/armv6 -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources -c /Users/gangwar/Downloads/DeviceinfoiOSLibrary/DeviceinfoiOSLibrary_Prefix.pch -o /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-bokpxfeqpkwcnshkeasjjzrlsowm/DeviceinfoiOSLibrary_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-dkbpkhhkltbdavfydfzeiejvuydv/DeviceinfoiOSLibrary_Prefix.pch.pth DeviceinfoiOSLibrary_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s336397786.772359
+e336397787.519099
+r1
+xProcessPCH
+x/var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-dkbpkhhkltbdavfydfzeiejvuydv/DeviceinfoiOSLibrary_Prefix.pch.pth
+xDeviceinfoiOSLibrary_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@42"Precompile DeviceinfoiOSLibrary_Prefix.pch336397786#336397787#0(0"0(0#0#77"/Users/gangwar/Downloads/DeviceinfoiOSLibrary/DeviceinfoiOSLibrary_Prefix.pch8616938432#2024"    cd /Users/gangwar/Downloads/DeviceinfoiOSLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/SDKs/qnx650/host/darwin/x86/usr/bin"    /Developer/usr/bin/clang -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fasm-blocks -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-generated-files.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-own-target-headers.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-all-target-headers.hmap -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-project-headers.hmap -F/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/include -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources/armv6 -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources -c /Users/gangwar/Downloads/DeviceinfoiOSLibrary/DeviceinfoiOSLibrary_Prefix.pch -o /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-dkbpkhhkltbdavfydfzeiejvuydv/DeviceinfoiOSLibrary_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-dzlcqbfoiwkfbedexejlbvlqpkgj/DeviceinfoiOSLibrary_Prefix.pch.pth DeviceinfoiOSLibrary_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s336397787.006376
+e336397787.524283
+r1
+xProcessPCH
+x/var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-dzlcqbfoiwkfbedexejlbvlqpkgj/DeviceinfoiOSLibrary_Prefix.pch.pth
+xDeviceinfoiOSLibrary_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@42"Precompile DeviceinfoiOSLibrary_Prefix.pch336397787#336397787#0(0"0(0#0#77"/Users/gangwar/Downloads/DeviceinfoiOSLibrary/DeviceinfoiOSLibrary_Prefix.pch8614890304#2024"    cd /Users/gangwar/Downloads/DeviceinfoiOSLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/SDKs/qnx650/host/darwin/x86/usr/bin"    /Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fasm-blocks -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-generated-files.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-own-target-headers.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-all-target-headers.hmap -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-project-headers.hmap -F/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/include -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources/armv7 -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources -c /Users/gangwar/Downloads/DeviceinfoiOSLibrary/DeviceinfoiOSLibrary_Prefix.pch -o /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-dzlcqbfoiwkfbedexejlbvlqpkgj/DeviceinfoiOSLibrary_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-eklqryaicpoubnaiuigrpnfdwage/DeviceinfoiOSLibrary_Prefix.pch.gch DeviceinfoiOSLibrary_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s336397786.204943
+e336397787.006282
+r1
+xProcessPCH
+x/var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-eklqryaicpoubnaiuigrpnfdwage/DeviceinfoiOSLibrary_Prefix.pch.gch
+xDeviceinfoiOSLibrary_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile DeviceinfoiOSLibrary_Prefix.pch336397786#336397787#0(0"0(0#0#77"/Users/gangwar/Downloads/DeviceinfoiOSLibrary/DeviceinfoiOSLibrary_Prefix.pch8613089440#2013"    cd /Users/gangwar/Downloads/DeviceinfoiOSLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Developer/SDKs/qnx650/host/darwin/x86/usr/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -mfix-and-continue -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-generated-files.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-own-target-headers.hmap -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-all-target-headers.hmap -iquote /Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DeviceinfoiOSLibrary-project-headers.hmap -F/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/Debug-iphoneos/include -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources/armv7 -I/Users/gangwar/Downloads/DeviceinfoiOSLibrary/build/DeviceinfoiOSLibrary.build/Debug-iphoneos/DeviceinfoiOSLibrary.build/DerivedSources -c /Users/gangwar/Downloads/DeviceinfoiOSLibrary/DeviceinfoiOSLibrary_Prefix.pch -o /var/folders/ts/ts1sshcnEpqCzLOX8mLNVE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DeviceinfoiOSLibrary_Prefix-eklqryaicpoubnaiuigrpnfdwage/DeviceinfoiOSLibrary_Prefix.pch.gch0#
+

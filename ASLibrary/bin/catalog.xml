@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.5.1" build="21328" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/adobe/nativeExtension/DeviceInfo/DeviceStats" mod="1313503779000" signatureChecksum="3052301371" >
+        <def id="com.adobe.nativeExtension.DeviceInfo:DeviceStats" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/adobe/nativeExtension/DeviceInfo/Deviceinfo" mod="1313504437000" signatureChecksum="3833943163" >
+        <def id="com.adobe.nativeExtension.DeviceInfo:Deviceinfo" /> 
+        <dep id="com.adobe.nativeExtension.DeviceInfo:DeviceStats" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="com.adobe.nativeExtension.DeviceInfo:DeviceStats" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_d7c1d2076167c8ae60b82396a87c8ccde628867b8d58ff82ca0d3abd4900837a_flash_display_Sprite" mod="1314705013607" signatureChecksum="2722134713" >
+        <def id="_d7c1d2076167c8ae60b82396a87c8ccde628867b8d58ff82ca0d3abd4900837a_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="e46b93f9a9d52bcd56d8c0d160aecf38b490c5a36a32b2537f2a077b38a7b603"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
