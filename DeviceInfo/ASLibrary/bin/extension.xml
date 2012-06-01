@@ -1,0 +1,21 @@
+	<extension xmlns="http://ns.adobe.com/air/extension/2.5">
+	  <id>com.adobe.Deviceinfo</id>
+	  <versionNumber>1</versionNumber>
+	  <platforms>
+      <platform name="Android-ARM">
+	        <applicationDeployment>
+	          <nativeLibrary>Deviceinfo.jar</nativeLibrary>
+	          <initializer>com.adobe.extension.DeviceInfoExtension</initializer>
+	          <finalizer>com.adobe.extension.DeviceInfoExtension</finalizer>
+	        </applicationDeployment>
+	      </platform>
+	
+	 <platform name="iPhone-ARM">
+	        <applicationDeployment>
+	          <nativeLibrary>libDeviceinfo.a</nativeLibrary>
+	          <initializer>ExtInitializer</initializer>
+	          <finalizer>ExtFinalizer</finalizer>
+	        </applicationDeployment>
+	      </platform>
+	  </platforms>
+	</extension>

@@ -1,0 +1,35 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = D2AAC07D0554694100DB518D /* DeviceinfoiOSLibrary */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* DeviceinfoiOSLibrary */,
+		);
+		codeSenseManager = 14F7909A140D050500F51CCF /* Code sense */;
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 336397542;
+			PBXWorkspaceStateSaveDate = 336397542;
+		};
+		sourceControlManager = 14F79099140D050500F51CCF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	14F79099140D050500F51CCF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	14F7909A140D050500F51CCF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D2AAC07D0554694100DB518D /* DeviceinfoiOSLibrary */ = {
+		activeExec = 0;
+	};
+}
